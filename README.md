@@ -4,7 +4,7 @@
   <img src="https://badges.pufler.dev/visits/KivixEletric/KivixEletric?style=flat-square">
   <img src="https://badges.pufler.dev/repos/KivixEletric?style=flat-square">
   <img src="https://badges.pufler.dev/commits/monthly/KivixEletric?style=flat-square">
-  <img src="https://img.shields.io/opencollective/sponsors/_?style=flat-square&color=brightgreen">
+  <img src="https://img.shields.io/opencollective/sponsors/_?style=flat-square&color=brightgreen"></br>
 
   <a href="https://youtube.com/channel/UCuvVXZfb8GmJkbvHzWu-MGA" title="YouTube">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge">
