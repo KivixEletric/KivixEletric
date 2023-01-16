@@ -51,9 +51,9 @@ I'm a Web/Desktop Programmer from Brazil.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KivixEletric&theme=radical&hide_border=true&include_all_commits=false&count_private=false"><br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KivixEletric&theme=radical&hide_border=true&include_all_commits=false&count_private=false"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KivixEletric&theme=radical&hide_border=true"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KivixEletric&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KivixEletric&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </div>
 
 ---
