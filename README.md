@@ -17,7 +17,7 @@
 
 ---
 
-I'm a Full Stack Developer from Brazil.
+I'm a Web/Desktop Programmer from Brazil.
 
 - 🔭 &nbsp;I work as a software developer and contribute to the frontend and backend for building web and desktop applications.
 - 🌱 &nbsp;I’m currently learning **C#**, **C++** and **Java**.
