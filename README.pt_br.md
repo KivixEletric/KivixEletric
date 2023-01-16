@@ -17,7 +17,7 @@
 
 ---
 
-Sou um Desenvolvedor Full Stack do Brasil.
+Sou um Programador Web/Desktop do Brasil.
 
 - 🔭 &nbsp;Trabalho como desenvolvedor de software e contribuo com o frontend e backend para a construção de aplicativos web e desktop.
 - 🌱 &nbsp;Atualmente estou aprendendo **C#**, **C++** e **Java**.
