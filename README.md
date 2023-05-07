@@ -8,7 +8,7 @@
     <a href="" title="Twitch">
       <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white&style=flat-square">
     </a>
-    <img src="https://visitor-counter-badge.vercel.app/api/KivixEletric/visitor-counter-badge?style=flat-square">
+    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKivixEletric&label=Visitors&labelColor=%232b2930&countColor=%235c5866&style=flat-square&labelStyle=lower">
     <img src="https://img.shields.io/github/sponsors/KivixEletric?style=flat-square&color=5c5866&labelColor=2b2930">
   </div>
 
