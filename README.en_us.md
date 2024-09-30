@@ -15,16 +15,16 @@
 
 ---
 
-<h2 align="center">📜 Sobre mim</h2>
+<h2 align="center">📜 About me</h2>
 
-👋 Olá! Meu nome é Kivix Eletric, mas pode me chamar de Kivix, me considero um desenvolvedor web autodidata, gosto de desenvolver aplicações web & desktop além de desenvolver jogos, mas no meu tempo livre costumo jogar bastante e estudar mais em minha área ^^
+👋 Hello there! My name is Kivix Eletric, but you can call me Kivix, I consider myself a self-taught web developer, I like to develop web & desktop applications in addition to developing games, but in my free time I usually play a lot and study more in my area ^^
 
 </br>
 
-🔭 Atualmente, estou trabalhando em projetos da NextFUR<br>
-🌱 Atualmente, estou aprendendo C#, C++ e Web Assembly<br>
-💖 Amo programar em JavaScript e NodeJS<br>
-⚡ Fato curioso: **_Eu amo Cappuccino_** ☕
+🔭 I’m currently working on projects from NextFUR<br>
+🌱 I’m currently learning C#, C++ & Web Assembly<br>
+💖 I love programming in JavaScript & NodeJS<br>
+⚡ Fun fact: **_I love Cappuccino_** ☕
 
 ---
 
@@ -77,4 +77,4 @@
 
 ---
 
-Translation for [🇬🇧 English](./README.en_us.md)
+Translation for [🇧🇷 Brazilian Portuguese](./README.md)
