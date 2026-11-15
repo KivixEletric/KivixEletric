@@ -1,116 +1,97 @@
 ![Banner](./images/banner.png)
 
 <div align="center">
-  <div>
-    <a href="https://youtube.com/@KivixEletric" title="Youtube">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square">
-    </a>
-    <a href="https://youtube.com/@KivixEletricLives" title="Youtube">
-      <img src="https://img.shields.io/badge/Lives-%23FF0000.svg?logo=Youtube&logoColor=white&style=flat-square">
-    </a>
-    <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKivixEletric&label=Visitors&labelColor=%232b2930&countColor=%235c5866&style=flat-square&labelStyle=lower">
-    <img src="https://img.shields.io/github/sponsors/KivixEletric?style=flat-square&color=5c5866&labelColor=2b2930">
-  </div>
+
+[![Carrd](https://img.shields.io/badge/Carrd-2b2930.svg?logo=Carrd&logoColor=white&style=flat-square)](https://kivix-eletric.carrd.co/)
+[![Sponsors](https://img.shields.io/github/sponsors/KivixEletric?style=flat-square&color=5c5866&labelColor=2b2930)](https://github.com/sponsors/KivixEletric)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FKivixEletric&label=Visitors&labelColor=%232b2930&countColor=%235c5866&style=flat-square&labelStyle=lower)
+
 </div>
 
----
+<br/>
 
-<h2 align="center">📜 Sobre mim</h2>
+<h2 align="center">📜 About me</h2>
 
-👋 Olá! Me chamo Kivix Eletric, mas pode me chamar de MrKivix, atualmente me considero um Desenvolvedor Web/Desktop Pleno, trabalho bastante em meus projetos, mas em meu tempo livre costumo jogar bastante e aprender mais sobre minha area para assim reforçar meus conhecimentos a cada dia que se passa ^^
+👋 Hi! My name is **KivixEletric**, but you can call me **MrKivix** or just **Kivix**.
 
-</br>
+I'm a self-taught **Senior Full Stack Developer**, driven by curiosity and the desire to grow technically every single day. I dedicate myself intensely to building my projects, enjoy contributing to the open-source community, and when I'm not coding, I'm probably playing something in my free time. 🎮
 
-🔭 Atualmente, estou trabalhando em projetos da NextFUR e em Comissions<br>
-🌱 Atualmente, estou aprendendo Rust, C++ e Web Assembly<br>
-💖 Amo programar em JavaScript e NodeJS<br>
-⚡ Fato curioso: **_Eu amo Cappuccino_** ☕
+<br/>
+
+### 🔍 Current Focus & Technologies
+
+- 🔭 **Currently working on:** Developing projects at [**NextFUR**](https://nextfur.net/) and doing freelance work
+- 💖 **Favorite languages:** **TypeScript** and **Rust**
+- 🌱 **Currently learning:** **C++**, **C**, **WebAssembly**, and diving deeper into **Rust**
+- 🚀 **Goal:** Build efficient, scalable systems and share knowledge
+- ⚡ **Fun fact:** *I love cappuccino* ☕
 
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<div align="center">
-  <table>
-      <tr>
-          <td>Back-End</td>
-          <td>Front-End</td>
-          <td>Database</td>
-          <td>Desktop</td>
-          <td>Misc</td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=white"></td>
-          <td><img src="https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6"></td>
-          <td><img src="https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1"></td>
-          <td><img src="https://img.shields.io/badge/Electron-%2320232a.svg?style=for-the-badge&logo=Electron&logoColor=191970"></td>
-          <td><img src="https://img.shields.io/badge/Canva-%2320232a.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed"></td>
-          <td><img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"></td>
-          <td><img src="https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192"></td>
-          <td><img src="https://img.shields.io/badge/tauri-%2320232a.svg?style=for-the-badge&logo=tauri&logoColor=%2324C8DB"></td>
-          <td><img src="https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
-          <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
-          <td><img src="https://img.shields.io/badge/sqlite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%2307405e"></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC"></td>
-          <td><img src="https://img.shields.io/badge/Sass-%2320232a.svg?style=for-the-badge&logo=sass"></td>
-          <td><img src="https://img.shields.io/badge/Prisma-%2320232a.svg?style=for-the-badge&logo=Prisma&logoColor=3982CE"></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/Windows%20Terminal-%2320232a.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=6DA55F"></td>
-          <td><img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC"></td>
-          <td></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/markdown-%2320232a.svg?style=for-the-badge&logo=markdown&logoColor=white"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/yaml-%2320232a.svg?style=for-the-badge&logo=yaml&logoColor=%23ffffff"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/NPM-%2320232a.svg?style=for-the-badge&logo=npm&logoColor=%23CB3837"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/esbuild-%2320232a.svg?style=for-the-badge&logo=esbuild&logoColor=%23FFCF00"></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/yarn-%2320232a.svg?style=for-the-badge&logo=yarn&logoColor=%232C8EBB"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/NODEMON-%2320232a.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/Ubuntu-%2320232a.svg?style=for-the-badge&logo=ubuntu&logoColor=E95420"></td>
-      </tr>
-      <tr>
-          <td><img src="https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"></td>
-          <td></td>
-          <td></td>
-          <td></td>
-          <td><img src="https://img.shields.io/badge/Windows-%2320232a.svg?style=for-the-badge&logo=windows&logoColor=0078D6"></td>
-      </tr>
-  </table>
-<div>
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Back-End &amp; Desktop</strong></td>
+      <td>
+        <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%2320232a.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6" alt="TypeScript" /></a>
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=%236DA55F" alt="Node.js" /></a>
+        <a href="https://bun.sh/"><img src="https://img.shields.io/badge/Bun-%2320232a.svg?style=for-the-badge&logo=bun&logoColor=%23FBF0DF" alt="Bun" /></a>
+        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+        <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Tauri-%2320232a.svg?style=for-the-badge&logo=tauri&logoColor=%2324C8DB" alt="Tauri" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Front-End &amp; Build</strong></td>
+      <td>
+        <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="HTML5" /></a>
+        <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%23663399" alt="CSS" /></a>
+        <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-%2320232a.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699" alt="Sass" /></a>
+        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC" alt="TailwindCSS" /></a>
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+        <a href="https://www.solidjs.com/"><img src="https://img.shields.io/badge/SolidJS-%2320232a.svg?style=for-the-badge&logo=solid&logoColor=%2361DAFB" alt="SolidJS" /></a>
+        <a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-%2320232a.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF" alt="Vite" /></a>
+        <a href="https://esbuild.github.io/"><img src="https://img.shields.io/badge/esbuild-%2320232a.svg?style=for-the-badge&logo=esbuild&logoColor=%23FFCF00" alt="esbuild" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database &amp; ORMs</strong></td>
+      <td>
+        <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%2320232a.svg?style=for-the-badge&logo=sqlite&logoColor=%230F80CC" alt="SQLite" /></a>
+        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%234169E1" alt="PostgreSQL" /></a>
+        <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></a>
+        <a href="https://orm.drizzle.team/"><img src="https://img.shields.io/badge/Drizzle-%2320232a.svg?style=for-the-badge&logo=drizzle&logoColor=%23C5F74F" alt="Drizzle" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Tools &amp; Design</strong></td>
+      <td>
+        <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-%2320232a.svg?style=for-the-badge&logo=vscodium&logoColor=%23007ACC" alt="Visual Studio Code" /></a>
+        <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-%2320232a.svg?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" /></a>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%232496ED" alt="Docker" /></a>
+        <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E" alt="Figma" /></a>
+        <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-%2320232a.svg?style=for-the-badge" alt="Canva" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>OS / Misc</strong></td>
+      <td>
+        <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows%2011-%2320232a.svg?style=for-the-badge" alt="Windows 11" /></a>
+        <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-%2320232a.svg?style=for-the-badge&logo=ubuntu&logoColor=%23E95420" alt="Ubuntu" /></a>
+        <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-%2320232a.svg?style=for-the-badge&logo=debian&logoColor=%23D70A53" alt="Debian" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -118,19 +99,22 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=KivixEletric&theme=react&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KivixEletric&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KivixEletric&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KivixEletric&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=KivixEletric&show_icons=true&include_all_commits=true&theme=radical)
+
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=KivixEletric&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=KivixEletric&layout=compact&langs_count=4&theme=radical)
 
 </div>
-
----
 
 <div align="center">
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
-Translation for [🇬🇧 English](./README.en_us.md)
+<div align="center">
+  🇧🇷 Leia este README em <a href="./README.pt_br.md">Português</a>
+</div>
