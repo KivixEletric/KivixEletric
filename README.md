@@ -99,11 +99,9 @@ I'm a self-taught **Senior Full Stack Developer**, driven by curiosity and the d
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KivixEletric&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KivixEletric&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KivixEletric&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=KivixEletric&show_icons=true&include_all_commits=true&theme=radical)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=KivixEletric&layout=compact&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=KivixEletric&layout=compact&langs_count=4&theme=radical)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=KivixEletric&layout=compact&langs_count=4&theme=dark_github&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=KivixEletric&layout=compact&langs_count=4&theme=dark_github&hide_border=true)
 
 </div>
 
@@ -111,7 +109,7 @@ I'm a self-taught **Senior Full Stack Developer**, driven by curiosity and the d
 
 ## ✍️ Random Dev Quote
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 </div>
 
